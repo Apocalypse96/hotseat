@@ -1,5 +1,20 @@
 # HotSeat - Mobile Party Game
 
+## DEMO
+
+https://github.com/user-attachments/assets/18f31cca-88c2-4517-8ed5-5147e2864ebb
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/0a912bc3-b12b-42cb-b3ec-0630dce9d7a3" />
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/e124a3e4-1c5f-42d4-90b8-cb397414fa1c" />
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/58a6aa26-1ded-47c5-96fd-20160b46ff56" />
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/6b0af01a-4a1c-4a39-b27b-e9e7bc1f62e5" />
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/cd2fae08-c0f1-462b-8d48-7b3828c70b89" />
+
+
+
+
+
+
+
 A full-stack mobile party game built with React Native (Expo), Node.js, and MongoDB.
 
 ## Problem Statement
