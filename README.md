@@ -1,6 +1,19 @@
 # HotSeat - Mobile Party Game
 
+A full-stack mobile party game built with React Native (Expo), Node.js, and MongoDB.
+
+## Problem Statement
+
+In today's digital age, people often find themselves scrolling through their phones even during social gatherings. There's a need for a simple, engaging activity that brings people together in the moment without requiring everyone to have their own device or internet connection. HotSeat solves this by providing a turn-based conversation game that works on a single phone passed around the group, encouraging face-to-face interaction and meaningful conversations.
+
+## Description
+
 HotSeat is a mobile party game where a group of people uses a single device to play structured conversation rounds. One player is put in the "hot seat", given a prompt, and answers out loud while others listen and rate their response. The app tracks scores and shows an MVP at the end!
+
+**Target Users:**
+- Friends hanging out in hostels or at home
+- Couples looking for fun date-night conversation starters
+- Families during trips, festivals, and gatherings
 
 ## Features
 
@@ -198,6 +211,27 @@ npm run seed
 - Use your computer's local IP instead of localhost
 - Ensure both devices are on the same network
 - Check firewall settings
+
+## Core Features (Implemented)
+
+- [x] Game session setup with category selection
+- [x] Player management (2-8 players)
+- [x] Round-based gameplay with hot seat rotation
+- [x] Question deck with 100 questions across 5 categories
+- [x] Rating system (Amazing/Good/Ok)
+- [x] Real-time score tracking
+- [x] Final scoreboard with MVP highlight
+- [x] Game history with detailed round review
+- [x] Exit game functionality with confirmation
+
+## Future Features (Not Implemented)
+
+- [ ] User authentication and profiles
+- [ ] Custom question creation
+- [ ] Multiplayer over internet
+- [ ] Push notifications
+- [ ] Leaderboards across games
+- [ ] More question categories
 
 ## Contributing
 
